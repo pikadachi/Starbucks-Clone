@@ -1,0 +1,75 @@
+.footer{
+    border-top: solid 0.3px;
+    border-color: rgb(205, 199, 199);
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+.footer-table{
+    text-align: left;
+    margin-bottom: 60px;
+}
+td,th{
+    padding: 20px;
+}
+th{
+    font-size: 22px;
+    font-weight: 500;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+td{
+    font-size: 19px;
+    font-weight: 500;
+    color: rgba(0,0,0,0.58);    
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.td:hover{
+    color: black;
+}
+.social-media{
+    display: flex;
+    margin-right: 40px;
+    
+    margin-left: 20px;
+    border-top: solid 0.3px;
+    border-color: rgb(205, 199, 199);
+    justify-content: start;
+
+}
+.icons{
+    height: 45px;
+    margin-right: 10px;
+    padding-top: 40px;
+}
+.insta{
+    height: 38px;
+    margin-right: 12px;
+    padding-top: 44px;
+}
+.yt{
+    height: 42px;
+
+    margin-right: 12px;
+    padding-top: 42px;
+}
+.x{
+    height: 38px;
+    padding-top: 44px;
+
+}
+.footer-text{
+    margin-left:30px;
+}
+.footer-bottom-text{
+    padding-top: 8px;   
+    font-size :16px ;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.footer-bottom-text:hover{
+    text-decoration: underline;
+}
+.last-text{
+    padding-top: 8px;
+    color: rgba(0,0,0,0.58);
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
